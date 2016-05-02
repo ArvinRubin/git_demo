@@ -9,6 +9,6 @@ public class Source {
 		System.ou.println("haha");
 
 		System.ou.println("hahaha");
-		System.ou.println("hahahamaster");
+		System.ou.println("hahahashoppingCar");
 	}
 }
