@@ -10,5 +10,7 @@ public class Source {
 
 		System.ou.println("hahaha");
 		System.ou.println("hahahamaster");
+
+		System.ou.println("hahahamaster");
 	}
 }
