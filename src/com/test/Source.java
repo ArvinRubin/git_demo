@@ -9,8 +9,6 @@ public class Source {
 		System.ou.println("haha");
 
 		System.ou.println("hahaha");
-<<<<<<< HEAD
 		System.ou.println("hahahaBufferCar");
->>>>>>> master
 	}
 }
