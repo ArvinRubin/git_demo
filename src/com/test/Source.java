@@ -5,6 +5,6 @@ package com.test;
  */
 public class Source {
 	public static void main(String[] args) {
-		System.out.println("shoppingcsar");
+		System.ou.println("shoppingcsar");
 	}
 }
